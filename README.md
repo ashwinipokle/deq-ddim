@@ -1,7 +1,7 @@
-# 🚨 Please check the latest code at https://github.com/locuslab/deq-ddim 🚨
+## 🚨 Please check the latest code at https://github.com/locuslab/deq-ddim 🚨
 
 
-## Deep Equilibrium Approaches to Diffusion Models
+## Code for Deep Equilibrium Approaches to Diffusion Models
 
 This codebase has been adapted largely from the repository of Denoising Diffusion Implicit Models (DDIM) by Song. et. al. 2020 (https://arxiv.org/abs/2010.02502) (Note: we include the original MIT license that belongs to the authors of prior work (Song. et. al.) in this codebase.)
 
